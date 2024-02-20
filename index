@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<!-- Início da estrutura HTML -->
+<html>
+<head>
+<style>
+footer {
+  background-color:green;
+  color: black;
+  padding: 1% 45%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius:50px;
+  }
+
+.container {
+padding: 0px 50px
+}
+
+.
+
+</style>
+
+<meta charset="UTF-8">
+  <meta name="description" content="Melhores animes">
+  <meta name="keywords" 
+
+content="HTML,CSS,XML,JavaScript">
+  <meta name="autor" content="Eduardo">
+  <meta name="viewport" content="width=device-width, 
+
+initial-scale=1.0">
+<title>Tabela sobre os melhores animes</title>
+
+<style>
+table, th {color:green;}
+
+table, th {
+  border: 1px solid black;
+}
+</style>
+
+<style>
+table, td {color:white;}
+
+table, td {
+  border: 1px solid rgb(0, 12, 150);
+}
+</style>
+
+</head>
+
+<body style="background-color:lightgreen;">
+<div class="container">
+
+<h1 style="text-align:center; background-color:green; 
+
+border-radius: 10px;">Lista de melhores animes</h1>
+<p style="text-align:center; background-
+
+color:lightgreen;">Essa é uma tabela onde 
+
+mostra<br>os melhores animes (na minha opinião)</p>
+
+<hr>
+
+<table> 
+<style>
+table, th {
+
+  border-radius: 10px;
+}
+</style>
+
+<thead>
+
+<h2 id="c4" style="text-align:center; background-
+
+color:lightgreen">Animes até 2023</h2>
+
+<table style="width:100%; background-color:grey;">
+<tr>
+<th>Ação</th>
+<th>Aventura</th>
+<th>Romance</th>
+<th>Terror</th>
+</tr>
+
+</thead>
+
+<tbody>
+<tr>
+<td>Boku no hero</td>
+<td>HumterxHunter</td>
+<td>Komi can't comunicate</td>
+<td>Parasite</td>
+</tr>
+
+<tr>
+<td>Dragon Ball</td>
+<td>One Piece</td>
+<td>Darling in the franxx</td>
+<td>The Promisse neverland</td>
+</tr>
+
+<tr>
+<td>One Punch-man</td>
+<td>Attack on Titan</td>
+<td>Koe no Katachi</td>
+<td>Mirai Nikki</td>
+</tr>
+</tbody>
+
+<tfoot>
+<tr>
+<td>Naruto</td>
+<td>Haikyuu</td>
+<td>Sono bisque doll</td>
+<td>soul eather</td>
+</tr>
+</tfoot>
+
+</table>
+
+
+<h3 style="text-align:center; background-
+
+color:lightgreen;">Aqui está o link de acesso de 
+
+alguns animes para que você possa assistir</h3>
+
+<style>
+a:link, a:visited {
+
+  background-color:lightblue;
+  color: black;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 30px;
+}
+
+a:hover, a:active {
+  background-color:blue;
+  
+}
+
+</style>
+
+<p style="text-align:center;">Este link irá 
+
+redirecionar você para uma página na crunchyroll</p>
+<p style="text-align:center;"><a target="_blank" 
+
+href="https://www.crunchyroll.com/pt-
+
+br/series/G6NQ5DWZ6/my-hero-academia">Boku no 
+
+hero</a></p>
+
+<hr>
+
+<p style="text-align:center;">Este link irá 
+
+redirecionar você para uma página na Netflix</p>
+<p style="text-align:center;"><a target="_blank" 
+
+href="https://www.netflix.com/br/title/80217863">One 
+
+Piece</a></p>
+
+<hr>
+
+<p style="text-align:center;">Este link irá 
+
+redirecionar você para uma página na Netflix</p>
+<p style="text-align:center;"><a target="_blank" 
+
+href="https://www.netflix.com/br/title/70300472">Hunt
+
+er X Hunter</a></p>
+
+<hr>
+
+<p style="text-align:center;">Este link irá 
+
+redirecionar você para uma página na crunchyroll</p>
+<p style="text-align:center;"><a target="_blank" 
+
+href="https://www.crunchyroll.com/pt-
+
+br/series/G8DHV7W21/dragon-ball">Dragon Ball</a></p>
+
+<hr>
+
+<p style="text-align:center;">Este link irá 
+
+redirecionar você para uma página na Netflix</p>
+<p style="text-align:center;"><a target="_blank" 
+
+href="https://www.netflix.com/br/title/80117291">One 
+
+Punch-man</a></p>
+
+<hr>
+
+<p style="text-align:center;">Este link irá 
+
+redirecionar você para uma página na Netflix</p>
+<p style="text-align:center;"><a target="_blank" 
+
+href="https://www.netflix.com/br/title/80117291">One 
+
+Punch-man</a></p>
+
+<hr>
+
+<p style="text-align:center;">Este link irá 
+
+redirecionar você para uma página na crunchyroll</p>
+<p style="text-align:center;"><a target="_blank" 
+
+href="https://www.crunchyroll.com/pt-
+
+br/series/GR751KNZY/attack-on-titan">Attack on 
+
+Titan</a></p>
+
+<hr>
+
+<p style="text-align:center;">Este link irá 
+
+redirecionar você para uma página na crunchyroll</p>
+<p style="text-align:center;"><a target="_blank" 
+
+href="https://www.crunchyroll.com/pt-
+
+br/series/GY8VM8MWY/haikyu">Haikyuu</a></p>
+
+<hr>
+<style>
+.myDiv {
+  text-align: center;
+}
+</style>
+
+<div class="myDiv">
+<a target="_blank" 
+
+href="https://youtu.be/B5U0FvfhL4s?feature=shared">
+<img src="https://img.freepik.com/fotos-premium/um-
+
+homem-de-terno-dando-um-polegar-para-cima_662214-
+
+44739.jpg">
+</a>
+<p>Aprovado por especialistas</p>
+</div>
+
+<hr>
+
+<p style="text-align:center;"><a 
+
+href="#c4">Tabela</a></p>
+
+<footer>
+<p>Todas as redes sociais estão aqui<br> ¦Instagram ¦ 
+
+whatsapp¦ ¦Gmail ¦ linkedin¦<p>
+</footer>
+
+</body>
+
+</html>
